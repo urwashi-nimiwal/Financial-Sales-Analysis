@@ -66,11 +66,6 @@ Created an interactive dashboard including:
 
 ---
 
-# 📊 Dashboard Preview
-
-![Dashboard](Screenshots/dashboard.png)
-
----
 
 # 📈 Dashboard KPIs
 
